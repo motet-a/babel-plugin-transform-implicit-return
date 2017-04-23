@@ -1,7 +1,7 @@
 
 # babel-plugin-transform-implicit-return
 
-Functions that returns implicitly, like Ruby methods:
+Functions that return implicitly, like Ruby methods:
 
 ```js
 function someFunction() {

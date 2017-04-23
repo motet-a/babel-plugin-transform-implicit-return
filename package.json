@@ -2,6 +2,7 @@
   "name": "babel-plugin-transform-implicit-return",
   "version": "0.0.2",
   "main": "index.js",
+  "description": "Functions that return implicitly",
   "license": "MIT",
   "homepage": "https://github.com/motet-a/babel-plugin-transform-implicit-return",
   "author": "Antoine Motet <antoine.motet@epitech.eu>",
