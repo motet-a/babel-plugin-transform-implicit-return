@@ -19,7 +19,7 @@ function someFunction() {
 }
 ```
 
-Arrow functions with a `{}` block are transfored too.
+Arrow functions with a `{}` block are transformed too.
 
 Functions without the `implicitReturn` directive are not transformed.
 
