@@ -1,0 +1,17 @@
+{
+  "name": "babel-plugin-transform-implicit-return",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "chai": "^3.5.0",
+    "invariant": "^2.2.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
